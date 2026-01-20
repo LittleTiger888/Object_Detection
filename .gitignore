@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.venv/
+*.h5
+WebApp/static/models/object_detection.h5

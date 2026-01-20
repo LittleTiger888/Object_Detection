@@ -1,0 +1,93 @@
+[I 2026-01-20 19:49:54.375 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-20 19:49:54.377 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
+[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
+[I 2026-01-20 19:49:54.483 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-20 19:49:54.488 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-20 19:49:54.489 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-20 19:49:54.489 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-20 19:49:54.490 LabApp] JupyterLab extension loaded from /home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyterlab
+[I 2026-01-20 19:49:54.490 LabApp] JupyterLab application directory is /home/aispark/Project/Object_Detect/.venv/share/jupyter/lab
+[I 2026-01-20 19:49:54.490 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-20 19:49:54.511 ServerApp] Registered jupyterlab_nvdashboard server extension
+[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
+[I 2026-01-20 19:49:54.511 ServerApp] Registered jupyterlab_nvidia_nsight server extension
+[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
+[I 2026-01-20 19:49:54.512 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Object_Detect
+[I 2026-01-20 19:49:54.512 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-20 19:49:54.512 ServerApp] http://localhost:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
+[I 2026-01-20 19:49:54.512 ServerApp]     http://127.0.0.1:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
+[I 2026-01-20 19:49:54.512 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-20 19:49:54.513 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/aispark/.local/share/jupyter/runtime/jpserver-23237-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
+        http://127.0.0.1:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
+[I 2026-01-20 19:49:54.527 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-01-20 19:49:56.779 TerminalsExtensionApp] 404 GET /terminals/websocket/1 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 5.51ms referer=None
+[I 2026-01-20 19:49:57.608 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.21ms
+[I 2026-01-20 19:49:57.653 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.21ms
+[E 2026-01-20 19:49:58.315 ServerApp] Uncaught exception GET /lab/api/settings?1768938598231 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/lab/api/settings?1768938598231', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+    tornado.iostream.StreamClosedError: Stream is closed
+[W 2026-01-20 19:49:58.694 TerminalsExtensionApp] 404 GET /terminals/websocket/1 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.59ms referer=None
+[W 2026-01-20 19:50:00.138 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2026-01-20 19:50:04.924 ServerApp] Notebook 01_xml_to_csv.ipynb is not trusted
+[I 2026-01-20 19:50:05.268 ServerApp] Kernel started: 5125953e-e8bc-410e-b352-e3c2984bfb90
+[I 2026-01-20 19:50:05.584 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
+[I 2026-01-20 19:50:05.585 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
+[W 2026-01-20 19:50:05.585 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-01-20 19:50:05.674 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
+[I 2026-01-20 19:50:05.675 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
+[W 2026-01-20 19:50:05.678 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0xfc65261ee3f0>
+[I 2026-01-20 19:50:05.754 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
+[I 2026-01-20 19:50:05.754 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
+[I 2026-01-20 19:52:05.175 ServerApp] Saving file at /01_xml_to_csv.ipynb
+[W 2026-01-20 19:52:05.175 ServerApp] Notebook 01_xml_to_csv.ipynb is not trusted
+[W 2026-01-20 19:54:42.514 ServerApp] delete /Data/labels.csv
+[I 2026-01-20 19:54:55.057 ServerApp] Saving file at /01_xml_to_csv.ipynb
+[I 2026-01-20 19:55:27.320 ServerApp] New terminal with automatic name: 1
+[W 2026-01-20 20:01:29.350 ServerApp] 400 GET /api/contents/WebApp/static/models/object_detection.h5?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768939289070 (127.0.0.1): /home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded
+[W 2026-01-20 20:01:29.350 ServerApp] wrote error: '/home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded)
+[W 2026-01-20 20:01:29.351 ServerApp] 400 GET /api/contents/WebApp/static/models/object_detection.h5?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768939289070 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 249.31ms referer=http://localhost:11002/lab/workspaces/auto-Q/tree/WebApp/static/models/object_detection.h5
+[I 2026-01-20 20:02:21.315 ServerApp] Creating new directory in /WebApp/static/models
+[W 2026-01-20 20:02:25.276 ServerApp] delete /WebApp/static/models/Untitled Folder
