@@ -2,3 +2,4 @@
 .venv/
 *.h5
 WebApp/static/models/object_detection.h5
+models/
