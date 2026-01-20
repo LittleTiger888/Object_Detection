@@ -577,3 +577,50 @@ I0000 00:00:1768942153.087411   42817 device_compiler.h:188] Compiled cluster us
 [I 2026-01-20 20:54:24.140 ServerApp] Saving file at /02_Object_Detection.ipynb
 [W 2026-01-20 20:55:09.995 ServerApp] delete /models/object_detection.keras
 [W 2026-01-20 20:55:12.894 ServerApp] delete /models/object_detection.h5
+[W 2026-01-20 20:56:20.566 ServerApp] 400 GET /api/contents/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768942580550 (127.0.0.1): /home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded
+[W 2026-01-20 20:56:20.566 ServerApp] wrote error: '/home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+         ^^^^^^^^^^^^^^^^^^^^^^^
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd9 in position 8: invalid continuation byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded)
+[W 2026-01-20 20:56:20.567 ServerApp] 400 GET /api/contents/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768942580550 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 2.65ms referer=http://localhost:11002/lab/workspaces/auto-Q/tree/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2
+[I 2026-01-20 20:56:26.138 ServerApp] Saving file at /02_Object_Detection.ipynb
+[W 2026-01-20 20:58:20.912 ServerApp] WebSocket ping timeout after 119789 ms.
+[I 2026-01-20 20:58:25.914 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
+[W 2026-01-20 20:58:27.477 TerminalsExtensionApp] WebSocket ping timeout after 119943 ms.
+[I 2026-01-20 20:59:03.006 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
+[I 2026-01-20 20:59:03.007 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
+[I 2026-01-20 20:59:03.007 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
+[I 2026-01-20 21:27:54.849 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:31:57.106 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:34:01.477 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:36:03.151 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:38:06.914 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:38:12.253 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 21:39:26.761 ServerApp] Saving file at /02_Object_Detection.ipynb
