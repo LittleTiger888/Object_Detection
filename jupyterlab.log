@@ -1,78 +1,46 @@
-[I 2026-01-20 19:49:54.375 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2026-01-20 19:49:54.377 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab | extension was successfully linked.
-[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
-[I 2026-01-20 19:49:54.378 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
-[I 2026-01-20 19:49:54.483 ServerApp] notebook_shim | extension was successfully linked.
-[I 2026-01-20 19:49:54.488 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2026-01-20 19:49:54.489 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2026-01-20 19:49:54.489 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2026-01-20 19:49:54.490 LabApp] JupyterLab extension loaded from /home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyterlab
-[I 2026-01-20 19:49:54.490 LabApp] JupyterLab application directory is /home/aispark/Project/Object_Detect/.venv/share/jupyter/lab
-[I 2026-01-20 19:49:54.490 LabApp] Extension Manager is 'pypi'.
-[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2026-01-20 19:49:54.511 ServerApp] Registered jupyterlab_nvdashboard server extension
-[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
-[I 2026-01-20 19:49:54.511 ServerApp] Registered jupyterlab_nvidia_nsight server extension
-[I 2026-01-20 19:49:54.511 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
-[I 2026-01-20 19:49:54.512 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Object_Detect
-[I 2026-01-20 19:49:54.512 ServerApp] Jupyter Server 2.17.0 is running at:
-[I 2026-01-20 19:49:54.512 ServerApp] http://localhost:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
-[I 2026-01-20 19:49:54.512 ServerApp]     http://127.0.0.1:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
-[I 2026-01-20 19:49:54.512 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2026-01-20 19:49:54.513 ServerApp] 
+[I 2026-01-20 22:23:13.558 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-20 22:23:13.560 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-01-20 22:23:13.562 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-20 22:23:13.562 ServerApp] jupyterlab_nvdashboard | extension was successfully linked.
+[I 2026-01-20 22:23:13.562 ServerApp] jupyterlab_nvidia_nsight | extension was successfully linked.
+[I 2026-01-20 22:23:13.666 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-01-20 22:23:13.673 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-20 22:23:13.674 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-20 22:23:13.674 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-20 22:23:13.675 LabApp] JupyterLab extension loaded from /home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyterlab
+[I 2026-01-20 22:23:13.675 LabApp] JupyterLab application directory is /home/aispark/Project/Object_Detect/.venv/share/jupyter/lab
+[I 2026-01-20 22:23:13.675 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-20 22:23:13.697 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-20 22:23:13.697 ServerApp] Registered jupyterlab_nvdashboard server extension
+[I 2026-01-20 22:23:13.697 ServerApp] jupyterlab_nvdashboard | extension was successfully loaded.
+[I 2026-01-20 22:23:13.697 ServerApp] Registered jupyterlab_nvidia_nsight server extension
+[I 2026-01-20 22:23:13.697 ServerApp] jupyterlab_nvidia_nsight | extension was successfully loaded.
+[I 2026-01-20 22:23:13.697 ServerApp] Serving notebooks from local directory: /home/aispark/Project/Object_Detect
+[I 2026-01-20 22:23:13.697 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-20 22:23:13.697 ServerApp] http://localhost:11002/lab?token=cf4de2b6296ac0c03d3903ec35ad1b5a7367ce0b8e8c8297
+[I 2026-01-20 22:23:13.697 ServerApp]     http://127.0.0.1:11002/lab?token=cf4de2b6296ac0c03d3903ec35ad1b5a7367ce0b8e8c8297
+[I 2026-01-20 22:23:13.697 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-01-20 22:23:13.698 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///home/aispark/.local/share/jupyter/runtime/jpserver-23237-open.html
+        file:///home/aispark/.local/share/jupyter/runtime/jpserver-110684-open.html
     Or copy and paste one of these URLs:
-        http://localhost:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
-        http://127.0.0.1:11002/lab?token=841a7e05b559cafabeca71861cb543733f892ce8a5f1c7ed
-[I 2026-01-20 19:49:54.527 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[W 2026-01-20 19:49:56.779 TerminalsExtensionApp] 404 GET /terminals/websocket/1 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 5.51ms referer=None
-[I 2026-01-20 19:49:57.608 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.21ms
-[I 2026-01-20 19:49:57.653 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.21ms
-[E 2026-01-20 19:49:58.315 ServerApp] Uncaught exception GET /lab/api/settings?1768938598231 (127.0.0.1)
-    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/lab/api/settings?1768938598231', version='HTTP/1.1', remote_ip='127.0.0.1')
-    Traceback (most recent call last):
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
-        result = await result
-                 ^^^^^^^^^^^^
-    tornado.iostream.StreamClosedError: Stream is closed
-[W 2026-01-20 19:49:58.694 TerminalsExtensionApp] 404 GET /terminals/websocket/1 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.59ms referer=None
-[W 2026-01-20 19:50:00.138 LabApp] Could not determine jupyterlab build status without nodejs
-[W 2026-01-20 19:50:04.924 ServerApp] Notebook 01_xml_to_csv.ipynb is not trusted
-[I 2026-01-20 19:50:05.268 ServerApp] Kernel started: 5125953e-e8bc-410e-b352-e3c2984bfb90
-[I 2026-01-20 19:50:05.584 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
-[I 2026-01-20 19:50:05.585 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
-[W 2026-01-20 19:50:05.585 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://localhost:11002/lab?token=cf4de2b6296ac0c03d3903ec35ad1b5a7367ce0b8e8c8297
+        http://127.0.0.1:11002/lab?token=cf4de2b6296ac0c03d3903ec35ad1b5a7367ce0b8e8c8297
+[I 2026-01-20 22:23:13.705 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-01-20 22:23:13.798 TerminalsExtensionApp] 404 GET /terminals/websocket/2 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 22.21ms referer=None
+[I 2026-01-20 22:23:16.885 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.12ms
+[I 2026-01-20 22:23:16.910 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.18ms
+[W 2026-01-20 22:23:18.523 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2026-01-20 22:23:19.417 ServerApp] New terminal with automatic name: 2
+[W 2026-01-20 22:23:19.724 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2026-01-20 19:50:05.674 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
-[I 2026-01-20 19:50:05.675 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
-[W 2026-01-20 19:50:05.678 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0xfc65261ee3f0>
-[I 2026-01-20 19:50:05.754 ServerApp] Adapting from protocol version 5.3 (kernel 5125953e-e8bc-410e-b352-e3c2984bfb90) to 5.4 (client).
-[I 2026-01-20 19:50:05.754 ServerApp] Connecting to kernel 5125953e-e8bc-410e-b352-e3c2984bfb90.
-[I 2026-01-20 19:52:05.175 ServerApp] Saving file at /01_xml_to_csv.ipynb
-[W 2026-01-20 19:52:05.175 ServerApp] Notebook 01_xml_to_csv.ipynb is not trusted
-[W 2026-01-20 19:54:42.514 ServerApp] delete /Data/labels.csv
-[I 2026-01-20 19:54:55.057 ServerApp] Saving file at /01_xml_to_csv.ipynb
-[I 2026-01-20 19:55:27.320 ServerApp] New terminal with automatic name: 1
-[W 2026-01-20 20:01:29.350 ServerApp] 400 GET /api/contents/WebApp/static/models/object_detection.h5?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768939289070 (127.0.0.1): /home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded
-[W 2026-01-20 20:01:29.350 ServerApp] wrote error: '/home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded'
+[W 2026-01-20 22:23:19.790 ServerApp] Notebook Object_Detection.ipynb is not trusted
+[W 2026-01-20 22:23:22.567 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802483 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.59ms referer=http://localhost:11002/lab
+[I 2026-01-20 22:23:22.567 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:23:22.568 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802483 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802483', version='HTTP/1.1', remote_ip='127.0.0.1')
     Traceback (most recent call last):
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
-        (bcontent.decode("utf8"), "text", bcontent)
-         ^^^^^^^^^^^^^^^^^^^^^^^
-    UnicodeDecodeError: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
-    
-    The above exception was the direct cause of the following exception:
-    
-    Traceback (most recent call last):
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
-        result = await result
-                 ^^^^^^^^^^^^
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
-        return await out
-               ^^^^^^^^^
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
         model = await ensure_async(
                 ^^^^^^^^^^^^^^^^^^^
@@ -82,510 +50,14 @@
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
         model = await self._file_model(
                 ^^^^^^^^^^^^^^^^^^^^^^^
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
-        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
-                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
-        raise HTTPError(
-    tornado.web.HTTPError: HTTP 400: bad format (/home/aispark/Project/Object_Detect/WebApp/static/models/object_detection.h5 is not UTF-8 encoded)
-[W 2026-01-20 20:01:29.351 ServerApp] 400 GET /api/contents/WebApp/static/models/object_detection.h5?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768939289070 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 249.31ms referer=http://localhost:11002/lab/workspaces/auto-Q/tree/WebApp/static/models/object_detection.h5
-[I 2026-01-20 20:02:21.315 ServerApp] Creating new directory in /WebApp/static/models
-[W 2026-01-20 20:02:25.276 ServerApp] delete /WebApp/static/models/Untitled Folder
-[I 2026-01-20 20:07:47.656 ServerApp] Saving file at /01_xml_to_csv.ipynb
-[I 2026-01-20 20:13:48.009 ServerApp] Saving file at /01_xml_to_csv.ipynb
-[W 2026-01-20 20:18:00.439 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:18:01.124 ServerApp] Kernel started: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:18:01.324 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:18:01.325 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:18:03.959 ServerApp] Starting buffering for 5125953e-e8bc-410e-b352-e3c2984bfb90:2868ec80-cee6-48fa-bc93-1f2f32a8e8c9
-[I 2026-01-20 20:18:08.285 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:18:08.285 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:18:08.720 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:18:08.720 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:18:09.444 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:2737d5e9-23c8-46b4-84b6-d5d1adaa9f3e
-[W 2026-01-20 20:18:11.138 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:18:11.680 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:18:11.680 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:20:11.756 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:20:11.756 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:20:25.144 ServerApp] Kernel restarted: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:20:25.189 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:20:25.230 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:20:25.230 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:20:25.230 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[ WARN:0@5.037] global loadsave.cpp:278 findDecoder imread_('./images/N199.jpeg'): can't open/read file: check file path/integrity
-[W 2026-01-20 20:20:33.989 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768940433980 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.68ms referer=http://localhost:11002/lab/workspaces/auto-Q/tree/02_Object_Detection.ipynb
-[W 2026-01-20 20:20:33.989 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768940433980 (127.0.0.1): No such file or directory: images/N199.jpeg
-[I 2026-01-20 20:20:40.135 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
-[W 2026-01-20 20:20:40.135 ServerApp] kernel 6866dd71-64f8-45db-a1bb-36579a2defc7 restarted
-[I 2026-01-20 20:20:40.229 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:20:40.280 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:20:40.280 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:20:40.280 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:20:43.485 ServerApp] Kernel interrupted: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:20:45.628 ServerApp] Kernel restarted: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:20:45.668 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:20:45.710 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:20:45.710 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:20:45.710 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:21:39.618 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
-[W 2026-01-20 20:21:39.618 ServerApp] kernel 6866dd71-64f8-45db-a1bb-36579a2defc7 restarted
-[I 2026-01-20 20:21:39.750 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:21:39.815 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:21:39.815 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:21:39.815 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:22:05.803 ServerApp] Kernel restarted: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:22:05.984 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:22:06.071 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:22:06.072 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:22:06.072 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:22:11.794 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
-[W 2026-01-20 20:22:11.794 ServerApp] kernel 6866dd71-64f8-45db-a1bb-36579a2defc7 restarted
-[I 2026-01-20 20:22:11.914 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:22:12.161 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:22:12.161 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:22:12.163 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:22:12.165 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:22:12.165 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:23:20.806 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
-[W 2026-01-20 20:23:20.806 ServerApp] kernel 6866dd71-64f8-45db-a1bb-36579a2defc7 restarted
-[I 2026-01-20 20:23:20.871 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 20:23:20.910 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:23:20.910 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:23:20.910 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-2026-01-20 20:24:01.546146: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2026-01-20 20:24:01.554406: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8473] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2026-01-20 20:24:01.558311: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1471] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2026-01-20 20:24:01.931291: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT: INTERNAL: Cannot dlopen all TensorRT libraries: FAILED_PRECONDITION: Could not load dynamic library 'libnvinfer.so.10.8.0'; dlerror: libnvinfer.so.10.8.0: cannot open shared object file: No such file or directory
-[I 2026-01-20 20:24:04.916 ServerApp] Kernel interrupted: 6866dd71-64f8-45db-a1bb-36579a2defc7
-[I 2026-01-20 20:24:12.820 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:24:12.820 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-[I 2026-01-20 20:26:15.266 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:26:15.267 ServerApp] Notebook 02_Object_Detection.ipynb is not trusted
-WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1768942089.785481   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942089.825605   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942089.830161   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942089.839108   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942089.843736   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942089.847572   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942090.021376   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942090.024222   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-I0000 00:00:1768942090.026994   34124 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
-2026-01-20 20:48:10.029338: I tensorflow/core/common_runtime/gpu/gpu_device.cc:2021] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 88453 MB memory:  -> device: 0, name: NVIDIA GB10, pci bus id: 000f:01:00.0, compute capability: 12.1
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85'' is not a recognized feature for this target (ignoring feature)
-+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-''+ptx85' is not a recognized feature for this target (ignoring feature)
-+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85'' is not a recognized feature for this target (ignoring feature)
-+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target' (ignoring feature)
-+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-[I 2026-01-20 20:48:18.383 ServerApp] Saving file at /02_Object_Detection.ipynb
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1768942147.895922   42817 service.cc:146] XLA service 0xf10200003c80 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
-I0000 00:00:1768942147.895945   42817 service.cc:154]   StreamExecutor device (0): NVIDIA GB10, Compute Capability 12.1
-2026-01-20 20:49:08.093892: I tensorflow/compiler/mlir/tensorflow/utils/dump_mlir_util.cc:268] disabling MLIR crash reproducer, set env var `MLIR_CRASH_REPRODUCER_DIRECTORY` to enable.
-2026-01-20 20:49:09.418038: I external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:531] Loaded cuDNN version 91800
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-2026-01-20 20:49:10.149826: I external/local_xla/xla/stream_executor/cuda/cuda_asm_compiler.cc:393] ptxas warning : Registers are spilled to local memory in function 'gemm_fusion_dot_17642', 68 bytes spill stores, 88 bytes spill loads
-
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-2026-01-20 20:49:10.365677: I external/local_xla/xla/stream_executor/cuda/cuda_asm_compiler.cc:393] ptxas warning : Registers are spilled to local memory in function 'gemm_fusion_dot_17642', 68 bytes spill stores, 88 bytes spill loads
-
-2026-01-20 20:49:10.423063: I external/local_xla/xla/stream_executor/cuda/cuda_asm_compiler.cc:393] ptxas warning : Registers are spilled to local memory in function 'gemm_fusion_dot_17642', 68 bytes spill stores, 88 bytes spill loads
-
-2026-01-20 20:49:10.559415: I external/local_xla/xla/stream_executor/cuda/cuda_asm_compiler.cc:393] ptxas warning : Registers are spilled to local memory in function 'gemm_fusion_dot_17642', 68 bytes spill stores, 88 bytes spill loads
-
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-I0000 00:00:1768942153.087411   42817 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-'+ptx85' is not a recognized feature for this target (ignoring feature)
-[I 2026-01-20 20:50:20.078 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 20:52:21.561 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 20:54:24.140 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:55:09.995 ServerApp] delete /models/object_detection.keras
-[W 2026-01-20 20:55:12.894 ServerApp] delete /models/object_detection.h5
-[W 2026-01-20 20:56:20.566 ServerApp] 400 GET /api/contents/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768942580550 (127.0.0.1): /home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded
-[W 2026-01-20 20:56:20.566 ServerApp] wrote error: '/home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded'
-    Traceback (most recent call last):
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
-        (bcontent.decode("utf8"), "text", bcontent)
-         ^^^^^^^^^^^^^^^^^^^^^^^
-    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd9 in position 8: invalid continuation byte
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
     
-    The above exception was the direct cause of the following exception:
+    During handling of the above exception, another exception occurred:
     
     Traceback (most recent call last):
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
@@ -594,6 +66,18 @@ I0000 00:00:1768942153.087411   42817 device_compiler.h:188] Compiled cluster us
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
         return await out
                ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:23:22.569 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802482 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.53ms referer=http://localhost:11002/lab
+[I 2026-01-20 22:23:22.569 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:23:22.569 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802482 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802482', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
         model = await ensure_async(
                 ^^^^^^^^^^^^^^^^^^^
@@ -603,24 +87,515 @@ I0000 00:00:1768942153.087411   42817 device_compiler.h:188] Compiled cluster us
       File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
         model = await self._file_model(
                 ^^^^^^^^^^^^^^^^^^^^^^^
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
-        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
-                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
-        raise HTTPError(
-    tornado.web.HTTPError: HTTP 400: bad format (/home/aispark/Project/Object_Detect/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2 is not UTF-8 encoded)
-[W 2026-01-20 20:56:20.567 ServerApp] 400 GET /api/contents/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1768942580550 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 2.65ms referer=http://localhost:11002/lab/workspaces/auto-Q/tree/object_detection/validation/events.out.tfevents.1768942330.spark-b9da.34124.5.v2
-[I 2026-01-20 20:56:26.138 ServerApp] Saving file at /02_Object_Detection.ipynb
-[W 2026-01-20 20:58:20.912 ServerApp] WebSocket ping timeout after 119789 ms.
-[I 2026-01-20 20:58:25.914 ServerApp] Starting buffering for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[W 2026-01-20 20:58:27.477 TerminalsExtensionApp] WebSocket ping timeout after 119943 ms.
-[I 2026-01-20 20:59:03.006 ServerApp] Adapting from protocol version 5.3 (kernel 6866dd71-64f8-45db-a1bb-36579a2defc7) to 5.4 (client).
-[I 2026-01-20 20:59:03.007 ServerApp] Connecting to kernel 6866dd71-64f8-45db-a1bb-36579a2defc7.
-[I 2026-01-20 20:59:03.007 ServerApp] Restoring connection for 6866dd71-64f8-45db-a1bb-36579a2defc7:8a87bf05-4e1c-44dd-81ed-58736f4bd246
-[I 2026-01-20 21:27:54.849 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:31:57.106 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:34:01.477 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:36:03.151 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:38:06.914 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:38:12.253 ServerApp] Saving file at /02_Object_Detection.ipynb
-[I 2026-01-20 21:39:26.761 ServerApp] Saving file at /02_Object_Detection.ipynb
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:23:22.570 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802480 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.99ms referer=http://localhost:11002/lab
+[I 2026-01-20 22:23:22.570 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:23:22.570 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802480 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802480', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:23:22.570 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802481 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 1.43ms referer=http://localhost:11002/lab
+[I 2026-01-20 22:23:22.570 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:23:22.570 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802481 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947802481', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:23:22.571 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947802484 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 1.86ms referer=http://localhost:11002/lab
+[I 2026-01-20 22:23:22.571 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/common.py', via 404 Error
+[E 2026-01-20 22:23:22.571 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947802484 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947802484', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/common.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[I 2026-01-20 22:23:24.889 ServerApp] Kernel started: d729c0e6-10b1-4fd1-a245-11463380927e
+[I 2026-01-20 22:23:24.978 ServerApp] Kernel started: 25969e1f-a860-4c3a-9127-443bb06e9b7e
+[I 2026-01-20 22:23:25.124 ServerApp] Adapting from protocol version 5.3 (kernel d729c0e6-10b1-4fd1-a245-11463380927e) to 5.4 (client).
+[I 2026-01-20 22:23:25.124 ServerApp] Connecting to kernel d729c0e6-10b1-4fd1-a245-11463380927e.
+[I 2026-01-20 22:23:25.330 ServerApp] Starting buffering for d729c0e6-10b1-4fd1-a245-11463380927e:ab5916f3-9791-44d1-b716-9ba8e09c38c2
+[I 2026-01-20 22:23:25.331 ServerApp] Adapting from protocol version 5.3 (kernel d729c0e6-10b1-4fd1-a245-11463380927e) to 5.4 (client).
+[I 2026-01-20 22:23:25.332 ServerApp] Connecting to kernel d729c0e6-10b1-4fd1-a245-11463380927e.
+[I 2026-01-20 22:23:25.540 ServerApp] Adapting from protocol version 5.3 (kernel 25969e1f-a860-4c3a-9127-443bb06e9b7e) to 5.4 (client).
+[I 2026-01-20 22:23:25.540 ServerApp] Connecting to kernel 25969e1f-a860-4c3a-9127-443bb06e9b7e.
+[I 2026-01-20 22:23:25.746 ServerApp] Starting buffering for 25969e1f-a860-4c3a-9127-443bb06e9b7e:ce1f3d4c-90dc-43cf-ab31-e90440407573
+[I 2026-01-20 22:23:25.747 ServerApp] Adapting from protocol version 5.3 (kernel 25969e1f-a860-4c3a-9127-443bb06e9b7e) to 5.4 (client).
+[I 2026-01-20 22:23:25.747 ServerApp] Connecting to kernel 25969e1f-a860-4c3a-9127-443bb06e9b7e.
+[W 2026-01-20 22:24:23.730 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 1.04ms referer=http://localhost:11002/lab/tree/Object_Detection.ipynb
+[I 2026-01-20 22:24:23.730 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:24:23.731 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:24:23.732 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 2.13ms referer=http://localhost:11002/lab/tree/Object_Detection.ipynb
+[I 2026-01-20 22:24:23.732 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:24:23.732 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863718', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:24:23.734 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.88ms referer=http://localhost:11002/lab/tree/Object_Detection.ipynb
+[I 2026-01-20 22:24:23.734 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:24:23.734 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:24:23.735 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947863720 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 1.87ms referer=http://localhost:11002/lab/tree/Object_Detection.ipynb
+[I 2026-01-20 22:24:23.735 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/common.py', via 404 Error
+[E 2026-01-20 22:24:23.735 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947863720 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/common.py?content=0&hash=0&1768947863720', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/common.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:24:23.736 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 2.87ms referer=http://localhost:11002/lab/tree/Object_Detection.ipynb
+[I 2026-01-20 22:24:23.736 ServerApp] Refusing to serve hidden file or directory '/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py', via 404 Error
+[E 2026-01-20 22:24:23.736 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py?content=0&hash=0&1768947863719', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+                ^^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 829, in _file_model
+        model = self._base_model(path)
+                ^^^^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 237, in _base_model
+        raise web.HTTPError(404, four_o_four)
+    tornado.web.HTTPError: HTTP 404: Not Found (file or directory does not exist: '.venv/lib/python3.12/site-packages/pandas/io/parsers/readers.py')
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[I 2026-01-20 22:25:23.017 ServerApp] Saving file at /Object_Detection.ipynb
+[W 2026-01-20 22:25:23.019 ServerApp] Notebook Object_Detection.ipynb is not trusted
+[I 2026-01-20 22:26:02.379 ServerApp] Kernel restarted: d729c0e6-10b1-4fd1-a245-11463380927e
+[I 2026-01-20 22:26:02.415 ServerApp] Starting buffering for d729c0e6-10b1-4fd1-a245-11463380927e:670fea74-5e12-48ef-814d-fc650f5cf543
+[I 2026-01-20 22:26:02.448 ServerApp] Adapting from protocol version 5.3 (kernel d729c0e6-10b1-4fd1-a245-11463380927e) to 5.4 (client).
+[I 2026-01-20 22:26:02.449 ServerApp] Connecting to kernel d729c0e6-10b1-4fd1-a245-11463380927e.
+[I 2026-01-20 22:26:02.449 ServerApp] Restoring connection for d729c0e6-10b1-4fd1-a245-11463380927e:670fea74-5e12-48ef-814d-fc650f5cf543
+[I 2026-01-20 22:26:56.873 ServerApp] Starting buffering for d729c0e6-10b1-4fd1-a245-11463380927e:670fea74-5e12-48ef-814d-fc650f5cf543
+[I 2026-01-20 22:27:07.156 ServerApp] Saving file at /Object_Detection.ipynb
+[W 2026-01-20 22:27:09.981 ServerApp] Notebook Object_Detection.ipynb is not trusted
+[I 2026-01-20 22:27:10.581 ServerApp] Adapting from protocol version 5.3 (kernel d729c0e6-10b1-4fd1-a245-11463380927e) to 5.4 (client).
+[I 2026-01-20 22:27:10.581 ServerApp] Connecting to kernel d729c0e6-10b1-4fd1-a245-11463380927e.
+[I 2026-01-20 22:29:10.367 ServerApp] Saving file at /Object_Detection.ipynb
+[W 2026-01-20 22:29:10.368 ServerApp] Notebook Object_Detection.ipynb is not trusted
+[I 2026-01-20 22:29:26.332 ServerApp] Saving file at /02_Object_Detection.ipynb
+[W 2026-01-20 22:29:26.382 ServerApp] /home/aispark/Project/Object_Detect/.~02_Object_Detection.ipynb doesn't exist
+2026-01-20 22:29:30.417015: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2026-01-20 22:29:30.425133: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8473] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2026-01-20 22:29:30.428765: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1471] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2026-01-20 22:29:30.828413: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT: INTERNAL: Cannot dlopen all TensorRT libraries: FAILED_PRECONDITION: Could not load dynamic library 'libnvinfer.so.10.8.0'; dlerror: libnvinfer.so.10.8.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/cv2/../../lib64:
+[ WARN:0@93.025] global loadsave.cpp:278 findDecoder imread_('./images/N199.jpeg'): can't open/read file: check file path/integrity
+[W 2026-01-20 22:29:31.068 ServerApp] 404 GET /api/contents/.venv/lib/python3.12/lib64?content=0&hash=0&1768948171053 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.68ms referer=http://localhost:11002/lab/tree/02_Object_Detection.ipynb
+[E 2026-01-20 22:29:31.068 ServerApp] Uncaught exception GET /api/contents/.venv/lib/python3.12/lib64?content=0&hash=0&1768948171053 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:11002', method='GET', uri='/api/contents/.venv/lib/python3.12/lib64?content=0&hash=0&1768948171053', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+                ^^^^^^^^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 214, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/filemanager.py", line 912, in get
+        raise web.HTTPError(404, "No such file or directory: %s" % path)
+    tornado.web.HTTPError: HTTP 404: Not Found (No such file or directory: .venv/lib/python3.12/lib64)
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 1859, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 182, in get
+        await self._finish_error(
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 114, in _finish_error
+        self.write(message)
+      File "/home/aispark/Project/Object_Detect/.venv/lib/python3.12/site-packages/tornado/web.py", line 974, in write
+        raise RuntimeError("Cannot write() after finish()")
+    RuntimeError: Cannot write() after finish()
+[W 2026-01-20 22:29:31.069 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948171054 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 1.12ms referer=http://localhost:11002/lab/tree/02_Object_Detection.ipynb
+[W 2026-01-20 22:29:31.069 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948171054 (127.0.0.1): No such file or directory: images/N199.jpeg
+[ WARN:0@110.716] global loadsave.cpp:278 findDecoder imread_('./images/N199.jpeg'): can't open/read file: check file path/integrity
+[W 2026-01-20 22:29:48.773 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948188754 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.81ms referer=http://localhost:11002/lab/tree/02_Object_Detection.ipynb
+[W 2026-01-20 22:29:48.773 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948188754 (127.0.0.1): No such file or directory: images/N199.jpeg
+[ WARN:0@124.083] global loadsave.cpp:278 findDecoder imread_('./images/N199.jpeg'): can't open/read file: check file path/integrity
+[W 2026-01-20 22:30:02.133 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948202118 (f1ec6b7d3c544db2b8e8b0eb60b563f1@127.0.0.1) 0.58ms referer=http://localhost:11002/lab/tree/02_Object_Detection.ipynb
+[W 2026-01-20 22:30:02.133 ServerApp] 404 GET /api/contents/images/N199.jpeg?content=0&hash=0&1768948202118 (127.0.0.1): No such file or directory: images/N199.jpeg
+[I 2026-01-20 22:31:27.952 ServerApp] Saving file at /02_Object_Detection.ipynb
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1768948317.360004  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.400853  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.405422  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.411044  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.415648  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.419529  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.593389  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.596237  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+I0000 00:00:1768948317.599018  110800 cuda_executor.cc:1015] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355
+2026-01-20 22:31:57.601325: I tensorflow/core/common_runtime/gpu/gpu_device.cc:2021] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 92210 MB memory:  -> device: 0, name: NVIDIA GB10, pci bus id: 000f:01:00.0, compute capability: 12.1
+''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target (ignoring feature)
+ (ignoring feature)
+''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target (ignoring feature)
+ (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target+ptx85 (ignoring feature)
+ (ignoring feature)
+' is not a recognized feature for this target' (ignoring feature)
++ptx85' is not a recognized feature for this target' (ignoring feature)
++ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85'' is not a recognized feature for this target+ptx85 (ignoring feature)
+' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+[I 2026-01-20 22:33:28.675 ServerApp] Saving file at /02_Object_Detection.ipynb
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1768948445.021036  115348 service.cc:146] XLA service 0xedbe9c001f50 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+I0000 00:00:1768948445.021059  115348 service.cc:154]   StreamExecutor device (0): NVIDIA GB10, Compute Capability 12.1
+2026-01-20 22:34:05.112118: I tensorflow/compiler/mlir/tensorflow/utils/dump_mlir_util.cc:268] disabling MLIR crash reproducer, set env var `MLIR_CRASH_REPRODUCER_DIRECTORY` to enable.
+2026-01-20 22:34:05.660240: I external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:531] Loaded cuDNN version 91800
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+I0000 00:00:1768948447.636163  115348 device_compiler.h:188] Compiled cluster using XLA!  This line is logged at most once for the lifetime of the process.
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+[I 2026-01-20 22:34:47.922 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 22:35:27.118 ServerApp] Saving file at /Object_Detection.ipynb
+[W 2026-01-20 22:35:27.118 ServerApp] Notebook Object_Detection.ipynb is not trusted
+[I 2026-01-20 22:35:27.633 ServerApp] Starting buffering for d729c0e6-10b1-4fd1-a245-11463380927e:1cea3669-dc96-48b6-be77-ec650b1a9298
+[I 2026-01-20 22:36:50.977 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 22:37:30.836 ServerApp] Saving file at /02_Object_Detection.ipynb
+[I 2026-01-20 22:37:31.802 ServerApp] Saving file at /02_Object_Detection.ipynb
