@@ -3,3 +3,5 @@
 *.h5
 WebApp/static/models/object_detection.h5
 models/
+Model/
+test_images/traffic.mp4

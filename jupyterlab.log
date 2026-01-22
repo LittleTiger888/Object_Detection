@@ -407,3 +407,100 @@ I0000 00:00:1769026331.451189  308083 device_compiler.h:188] Compiled cluster us
 [I 2026-01-21 20:12:27.943 ServerApp] Saving file at /03-Make Predictions.ipynb
 [I 2026-01-21 20:12:30.281 ServerApp] New terminal with automatic name: 2
 [I 2026-01-21 20:12:31.300 ServerApp] Saving file at /03-Make Predictions.ipynb
+[I 2026-01-21 20:17:03.016 ServerApp] Starting buffering for f0de44f4-e0b7-4237-9309-e52d6828ad25:ed4909e7-30d7-4d7b-9f61-50a8aeb58fe6
+[I 2026-01-21 20:17:03.924 ServerApp] Starting buffering for 0e1bb80c-9ead-432c-a618-5b5bd4a6b96c:70cc9778-278e-43eb-8415-419bebf4aa30
+[I 2026-01-21 21:24:39.910 ServerApp] Uploading file to /Yolo.zip
+[I 2026-01-21 21:48:07.913 ServerApp] Saving file at /Yolo.zip
+[I 2026-01-21 21:48:34.233 ServerApp] New terminal with automatic name: 3
+[W 2026-01-21 21:50:29.636 ServerApp] delete /Yolo.zip
+[W 2026-01-21 21:52:40.624 ServerApp] delete /lables_1.csv
+[W 2026-01-21 21:56:47.582 ServerApp] Notebook yolo_data_preparation.ipynb is not trusted
+[I 2026-01-21 21:56:48.156 ServerApp] Kernel started: 75de7ed3-e4f0-4291-b89f-f2a7fe617f02
+[I 2026-01-21 21:56:48.401 ServerApp] Adapting from protocol version 5.3 (kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02) to 5.4 (client).
+[I 2026-01-21 21:56:48.404 ServerApp] Connecting to kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02.
+[I 2026-01-21 21:58:47.861 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[W 2026-01-21 21:58:47.861 ServerApp] Notebook yolo_data_preparation.ipynb is not trusted
+[I 2026-01-21 22:06:48.029 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:16:48.299 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:18:48.481 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:28:48.625 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:41:22.495 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:41:22.630 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:41:22.809 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-21 22:41:22.984 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[W 2026-01-21 22:43:01.295 TerminalsExtensionApp] WebSocket ping timeout after 119958 ms.
+[W 2026-01-21 22:43:04.324 TerminalsExtensionApp] WebSocket ping timeout after 119957 ms.
+[W 2026-01-21 22:43:18.404 ServerApp] WebSocket ping timeout after 119957 ms.
+[W 2026-01-21 22:43:21.489 TerminalsExtensionApp] WebSocket ping timeout after 119955 ms.
+[I 2026-01-21 22:43:23.404 ServerApp] Starting buffering for 75de7ed3-e4f0-4291-b89f-f2a7fe617f02:778b18fd-b9e9-4fb9-bc9a-d2c465d74ea6
+[I 2026-01-22 03:24:51.789 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.19ms
+[I 2026-01-22 03:24:52.380 ServerApp] Adapting from protocol version 5.3 (kernel 84aa8038-e99f-4c1d-b725-5181f76c13af) to 5.4 (client).
+[I 2026-01-22 03:24:52.380 ServerApp] Connecting to kernel 84aa8038-e99f-4c1d-b725-5181f76c13af.
+[I 2026-01-22 03:24:52.397 ServerApp] Adapting from protocol version 5.3 (kernel 0e1bb80c-9ead-432c-a618-5b5bd4a6b96c) to 5.4 (client).
+[I 2026-01-22 03:24:52.397 ServerApp] Connecting to kernel 0e1bb80c-9ead-432c-a618-5b5bd4a6b96c.
+[W 2026-01-22 03:24:52.399 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2026-01-22 03:24:52.425 ServerApp] Adapting from protocol version 5.3 (kernel f0de44f4-e0b7-4237-9309-e52d6828ad25) to 5.4 (client).
+[I 2026-01-22 03:24:52.425 ServerApp] Connecting to kernel f0de44f4-e0b7-4237-9309-e52d6828ad25.
+[I 2026-01-22 03:24:52.462 ServerApp] Starting buffering for 84aa8038-e99f-4c1d-b725-5181f76c13af:94b14e41-6ea6-439f-b032-dae8838b5907
+[I 2026-01-22 03:24:52.466 ServerApp] Adapting from protocol version 5.3 (kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02) to 5.4 (client).
+[I 2026-01-22 03:24:52.466 ServerApp] Connecting to kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02.
+[I 2026-01-22 03:24:52.554 ServerApp] Starting buffering for 0e1bb80c-9ead-432c-a618-5b5bd4a6b96c:4297fd7f-4316-4685-bf02-9650e911c5d9
+[I 2026-01-22 03:24:52.554 ServerApp] Starting buffering for f0de44f4-e0b7-4237-9309-e52d6828ad25:fb8f4b6f-85a5-411a-bce0-5b912dd3a033
+[I 2026-01-22 03:24:52.575 ServerApp] Starting buffering for 75de7ed3-e4f0-4291-b89f-f2a7fe617f02:de2069b3-ba8a-41be-99ca-863ba22fee6d
+[W 2026-01-22 03:24:52.592 ServerApp] 404 GET /api/contents/lables_1.csv?content=0&hash=0&1769052296332 (c59dbc8dee3745109c9a330e5964135e@127.0.0.1) 2.02ms referer=http://localhost:11002/lab
+[W 2026-01-22 03:24:52.592 ServerApp] 404 GET /api/contents/lables_1.csv?content=0&hash=0&1769052296332 (127.0.0.1): No such file or directory: lables_1.csv
+[I 2026-01-22 03:24:52.974 ServerApp] Adapting from protocol version 5.3 (kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02) to 5.4 (client).
+[I 2026-01-22 03:24:52.974 ServerApp] Connecting to kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02.
+[I 2026-01-22 03:32:52.840 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-22 03:38:52.962 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-22 03:43:49.616 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-22 03:43:49.734 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-22 03:43:49.910 ServerApp] Saving file at /yolo_data_preparation.ipynb
+[I 2026-01-22 03:46:05.916 ServerApp] Saving file at /data.yaml
+[I 2026-01-22 03:46:06.052 ServerApp] Saving file at /data.yaml
+[W 2026-01-22 03:53:56.226 ServerApp] Notebook yolo_predictions.ipynb is not trusted
+[I 2026-01-22 03:53:56.391 ServerApp] Kernel started: 455582a8-c3cc-464f-ac6d-35a633f2ece9
+[I 2026-01-22 03:53:56.604 ServerApp] Adapting from protocol version 5.3 (kernel 455582a8-c3cc-464f-ac6d-35a633f2ece9) to 5.4 (client).
+[I 2026-01-22 03:53:56.605 ServerApp] Connecting to kernel 455582a8-c3cc-464f-ac6d-35a633f2ece9.
+[I 2026-01-22 03:54:51.785 ServerApp] Saving file at /yolo_predictions.ipynb
+[I 2026-01-22 03:54:53.209 ServerApp] Starting buffering for 455582a8-c3cc-464f-ac6d-35a633f2ece9:d19413a8-2171-4a7e-ae4c-0bf577858922
+[I 2026-01-22 03:55:50.243 ServerApp] Uploading file to /Training_yolov5_new.ipynb
+[W 2026-01-22 03:55:55.849 ServerApp] Notebook Training_yolov5_new.ipynb is not trusted
+[I 2026-01-22 03:55:56.073 ServerApp] Kernel started: b1462f88-3f65-40b0-82b6-97bc658a5167
+[I 2026-01-22 03:55:56.271 ServerApp] Adapting from protocol version 5.3 (kernel b1462f88-3f65-40b0-82b6-97bc658a5167) to 5.4 (client).
+[I 2026-01-22 03:55:56.272 ServerApp] Connecting to kernel b1462f88-3f65-40b0-82b6-97bc658a5167.
+[I 2026-01-22 03:58:11.432 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 03:59:30.785 ServerApp] New terminal with automatic name: 4
+[I 2026-01-22 04:00:12.464 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:04:12.590 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:06:12.730 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:08:12.789 ServerApp] Saving file at /Training_yolo.ipynb
+[W 2026-01-22 04:14:52.646 TerminalsExtensionApp] WebSocket ping timeout after 119993 ms.
+[W 2026-01-22 04:14:52.976 ServerApp] WebSocket ping timeout after 119994 ms.
+[W 2026-01-22 04:14:56.273 ServerApp] WebSocket ping timeout after 119986 ms.
+[I 2026-01-22 04:14:57.977 ServerApp] Starting buffering for 75de7ed3-e4f0-4291-b89f-f2a7fe617f02:3c380881-1f8f-4aa6-b330-0af33917f792
+[W 2026-01-22 04:15:00.804 TerminalsExtensionApp] WebSocket ping timeout after 119997 ms.
+[I 2026-01-22 04:15:01.274 ServerApp] Starting buffering for b1462f88-3f65-40b0-82b6-97bc658a5167:4756558f-54d6-4f1d-b32f-cd1b2b44d67d
+[I 2026-01-22 04:20:14.576 ServerApp] Adapting from protocol version 5.3 (kernel b1462f88-3f65-40b0-82b6-97bc658a5167) to 5.4 (client).
+[I 2026-01-22 04:20:14.577 ServerApp] Connecting to kernel b1462f88-3f65-40b0-82b6-97bc658a5167.
+[I 2026-01-22 04:20:14.577 ServerApp] Restoring connection for b1462f88-3f65-40b0-82b6-97bc658a5167:4756558f-54d6-4f1d-b32f-cd1b2b44d67d
+[I 2026-01-22 04:20:14.597 ServerApp] Adapting from protocol version 5.3 (kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02) to 5.4 (client).
+[I 2026-01-22 04:20:14.598 ServerApp] Connecting to kernel 75de7ed3-e4f0-4291-b89f-f2a7fe617f02.
+[I 2026-01-22 04:20:14.598 ServerApp] Restoring connection for 75de7ed3-e4f0-4291-b89f-f2a7fe617f02:3c380881-1f8f-4aa6-b330-0af33917f792
+[I 2026-01-22 04:20:15.448 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:21:31.622 ServerApp] New terminal with automatic name: 5
+[I 2026-01-22 04:24:15.578 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:28:15.724 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:30:10.470 ServerApp] Kernel interrupted: b1462f88-3f65-40b0-82b6-97bc658a5167
+[I 2026-01-22 04:30:15.839 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:32:15.910 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:33:06.189 ServerApp] New terminal with automatic name: 6
+[I 2026-01-22 04:38:16.077 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:38:32.769 ServerApp] New terminal with automatic name: 7
+[I 2026-01-22 04:38:59.275 ServerApp] Starting buffering for 75de7ed3-e4f0-4291-b89f-f2a7fe617f02:3c380881-1f8f-4aa6-b330-0af33917f792
+[I 2026-01-22 04:40:16.126 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:41:10.068 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:41:10.138 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:41:10.322 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:41:14.557 ServerApp] Saving file at /Training_yolo.ipynb
+[I 2026-01-22 04:41:14.726 ServerApp] Saving file at /Training_yolo.ipynb
